@@ -25,5 +25,5 @@
  
 Database info
 
-> In files you will find two sql files. One is for running the program locally **DataBase**.sql
+> In files you will find two sql files. One is for running the program locally **DataBase**.sql.
 > Second one is **AzureDB**.sql which is deployed on Azure. The only difference is data inside the databases. 
