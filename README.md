@@ -23,7 +23,7 @@
   * Put user: /users/{userId}
   * Delete user: /users/{userId}
  
-As Kanye West said:
+Database info
 
-> We're living the future so
-> the present is our past.
+> In files you will find two sql files. One is for running the program locally **DataBase**.sql
+> Second one is **AzureDB**.sql which is deployed on Azure. The only difference is data inside the databases. 
