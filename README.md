@@ -1,21 +1,30 @@
 # TestApplication
 ## Job interwiev test <h2> Azure: http://bojanapi.azurewebsites.net
 ###### Job interwiev test <h6>
+ 
+ Get list of farms: /farms
+		Get one farm: /farms/{farmId}
+		Post method: /farms/create
+		Put method: /farms/{farmId}
+		Delete: /farms/{farmId}
+
+ 
+ 
 
 **Endpoints:**
 * Farm
-  * Item 1a
-  * Item 1b
-  * Item 1c
-  * Item 1d
-  * Item 1e
+  * Get list of farms: /farms
+  * Get one farm: /farms/{farmId}
+  * Post method: /farms/create
+  * Put method: /farms/{farmId}
+  * Delete: /farms/{farmId}
 * Customer
   * Item 2a
   * Item 2b
   * Item 2c
   * Item 2d
   * Item 2e
-* Customer
+* User
   * Item 3a
   * Item 3b
   * Item 3c
