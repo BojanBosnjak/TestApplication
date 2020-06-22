@@ -27,3 +27,5 @@ Database info
 
 > In files you will find two sql files. One is for running the program locally **DataBase**.sql.
 > Second one is **AzureDB**.sql which is deployed on Azure. The only difference is data inside the databases. 
+
+When you tes User authentication, use any user_name from database with "password" as password.
