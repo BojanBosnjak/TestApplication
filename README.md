@@ -17,8 +17,8 @@
 * User
   * Get list of users: /users/list
   * Get one user: /users/{userId}
-  * To get Farms User has access to: /farms/list/user/{userId}
-  * To get Accounts User has access to: /accounts/list/user/{userId}
+  * To get Farms User has access to: /farms/user/{userId}
+  * To get Accounts User has access to: /accounts/user/{userId}
   * Post user: /users/create
   * Put user: /users/{userId}
   * Delete user: /users/{userId}
