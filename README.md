@@ -29,4 +29,6 @@ Database info
 > Second one is **AzureDB**.sql which is deployed on Azure. The only difference is data inside the databases. 
 
 When you test User authentication, use any user_name from database with "password" as password.
-###### Job interwiev test <h6>
+
+Database info
+<In src/test/java you will find package with tests for Customer and User services. Test are in JUnit4. With test i covered save user, save customer, update user, update customer, failed update user, failed update customer, get user by id, and get al users.
