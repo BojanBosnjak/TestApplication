@@ -30,5 +30,9 @@ Database info
 
 When you test User authentication, use any user_name from database with "password" as password.
 
-Database info
-<In src/test/java you will find package with tests for Customer and User services. Test are in JUnit4. With test i covered save user, save customer, update user, update customer, failed update user, failed update customer, get user by id, and get al users.
+
+Test
+
+> In src/test/java you will find package with tests for Customer and User services. Test are in JUnit4. With test I have
+> covered save user, save customer, update user, update customer, failed update user, failed update customer, get user by id, >and get al users.
+
