@@ -1,5 +1,5 @@
 # TestApplication
-## Job interwiev test <h2> Azure: http://bojanapi.azurewebsites.net (this link is no longer available, application is removed from Azure)
+## Job interwiev test <h2> Azure: http://bojanapi.azurewebsites.net (This link will be available for few more days, after that I will have to remove it from Azure)
 ###### Job interwiev test <h6>
 **Endpoints:**
 * Farm
